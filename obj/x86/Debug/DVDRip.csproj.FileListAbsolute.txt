@@ -1,0 +1,4 @@
+C:\_Aaron\Projects\DVDRip(CSharp)\DVDRip\bin\Debug\DVDRip.exe
+C:\_Aaron\Projects\DVDRip(CSharp)\DVDRip\bin\Debug\DVDRip.pdb
+C:\_Aaron\Projects\DVDRip(CSharp)\DVDRip\obj\x86\Debug\DVDRip.exe
+C:\_Aaron\Projects\DVDRip(CSharp)\DVDRip\obj\x86\Debug\DVDRip.pdb
